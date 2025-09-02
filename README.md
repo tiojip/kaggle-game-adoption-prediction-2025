@@ -5,7 +5,7 @@ Compétition Kaggle (Data Mining 2025) – pipeline ML multi-classes (LightGBM O
 
 Projet académique réalisé lors du cours **Techniques d’exploitation de données (HEC Montréal)**.  
 Objectif : prédire quel jeu un joueur installera en premier le mois suivant (`aucun`, `jeu A`, `jeu B`, `jeu C`).  
-➡️ Résultat : **4ᵉ place sur 17 équipes** 🎯
+Résultat : **4ᵉ place sur 17 équipes** 
 
 **Approche :**
 - Modèle **LightGBM One-vs-One** avec optimisation **Optuna**
