@@ -14,6 +14,5 @@ Résultat : **4ᵉ place sur 17 équipes**
 
 **Repo :**
 - Notebooks (exploration & modèle final)
-- Code source du pipeline ML
 - Données d’exemple simulées (pas de données Kaggle réelles)
 - Résultats et métriques finales
