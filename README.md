@@ -14,5 +14,5 @@ Résultat : **4ᵉ place sur 17 équipes**
 
 **Repo :**
 - Notebooks (exploration & modèle final)
-- Données d’exemple simulées (pas de données Kaggle réelles)
+- Données d’exemple simulées
 - Résultats et métriques finales
